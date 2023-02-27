@@ -1,2 +1,2 @@
 # hkmenu
-this is sample restaurant menu using js.
+This is sample restaurant menu with filter button which classified meal using js.
