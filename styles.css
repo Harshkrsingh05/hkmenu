@@ -1,0 +1,65 @@
+h1 {
+  font-size: 3em;
+  text-align: center;
+  margin-bottom: 5px;
+}
+.main {
+  position: relative;
+  top: 10px;
+  border: none;
+  height: 6px;
+  background: gold;
+  margin-bottom: 20px;
+    }
+.btn-container {
+  text-align: center;
+}
+.filter-btn {
+  color: #8B0000;
+  border-radius: 3px;
+  padding: 3px 4px;
+  margin: 5px 5px 50px;
+  border: 3px solid black;
+
+}
+.filter-btn:hover {
+  background-color:  #8B0000;
+  color: white;
+  transition-duration: 0.4s;
+}
+img {
+
+  width: 20rem;
+  height: 15rem;
+  border: 5px solid #555;
+  border-radius: 5%;
+  position: relative;
+}
+h4 {
+  display: inline;
+  padding-right: 120px;
+  padding-left: 2px;
+}
+.price {
+  color: green;
+}
+hr {
+  position: absolute;
+  width: 30%;
+  left:auto;
+}
+
+.menu-item{
+  display: inline-block;
+  width: 48vw;
+}
+.item-text{
+  line-height: 2;
+  width: 50%;
+}
+.item-info{
+  padding: 5px 5px;
+  position: relative;
+  left: 335px;
+  bottom: 220px;
+}
