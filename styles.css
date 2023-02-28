@@ -54,6 +54,9 @@ hr {
 
 .item-text{
   line-height: 2;
-  width: 30%;
+  width: 50%;
+}
+.item-info{
+  padding: 5px 5px;
 }
 
