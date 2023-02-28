@@ -50,10 +50,10 @@ hr {
 }
 .section-center{
   display:grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: auto auto auto;
 
 .item-text{
   line-height: 2;
-  width: 50%;
+  width: 30%;
 }
 
