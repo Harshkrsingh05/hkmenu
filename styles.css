@@ -48,18 +48,12 @@ hr {
   width: 30%;
   left:auto;
 }
+.section-center{
+  display:grid;
+  grid-template-columns: auto auto;
 
-.menu-item{
-  display: inline-block;
-  width: 48vw;
-}
 .item-text{
   line-height: 2;
   width: 50%;
 }
-.item-info{
-  padding: 5px 5px;
-  position: relative;
-  left: 335px;
-  bottom: 220px;
-}
+
